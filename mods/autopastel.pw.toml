@@ -1,0 +1,8 @@
+name = "Autopastel"
+filename = "autopastel.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.21.1/datapacks/autopastel.jar"
+hash-format = "sha256"
+hash = "8a3e92ebb8363416c8e1abd0d20eb333c4da188ff391b1fddfb0454db4dbb545"

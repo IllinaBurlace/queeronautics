@@ -15,6 +15,11 @@ hash = "5a21b57951f08465ee9a49e5a7650655291dd441e8ee114c6a7c7caf0a180527"
 metafile = true
 
 [[files]]
+file = "mods/autopastel.pw.toml"
+hash = "709106d02d1f0e3e25d9813eaa2e83d2f0519e76c3a1a64a19c805dfef307e69"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "34752976272e3a7cb38857e24715bccdd7d2797ab824909277281f984dae3f65"
 metafile = true
