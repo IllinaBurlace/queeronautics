@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "b33a4d75eedba783810ede3a55b404bc317b75a242958c76fb66b46cfff4ed1e"
+hash = "ec84e918e244ad8dad1ea515e154be88faebf564bbb1a5b6cc24a9f885024a9d"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -12,11 +12,6 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "5a21b57951f08465ee9a49e5a7650655291dd441e8ee114c6a7c7caf0a180527"
-metafile = true
-
-[[files]]
-file = "mods/autopastel.pw.toml"
-hash = "709106d02d1f0e3e25d9813eaa2e83d2f0519e76c3a1a64a19c805dfef307e69"
 metafile = true
 
 [[files]]
@@ -210,11 +205,6 @@ hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
-file = "mods/pastel-mod.pw.toml"
-hash = "bdddda36c259addde0e8c6683f3d90aed915e8d13f9dfe98503388293d353c48"
-metafile = true
-
-[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "e5141bf653c820b9967b8be2e3d9d8e83f3b54d0450f0cabe812e00cce481fdf"
 metafile = true
@@ -232,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/resourcify.pw.toml"
 hash = "aa9c0153e1c999afee554d19e5b61941de484d82e463e829a53d82176f91960d"
+metafile = true
+
+[[files]]
+file = "mods/revelationary.pw.toml"
+hash = "bc896204604423a7c10565fc29bd8758eb1551e86bfefe5823657fbdc46dc0af"
 metafile = true
 
 [[files]]
@@ -272,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-sorter.pw.toml"
 hash = "d6ffdaa77c1268931084e61a6df498e7eb45813bc0f5db258df84dabee941715"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "044596b6a2063f3328785d905de83fc3e35122f03ffc174019cf9139e3eb2d2f"
 metafile = true
 
 [[files]]
