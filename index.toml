@@ -5,11 +5,6 @@ file = "README.md"
 hash = "b33a4d75eedba783810ede3a55b404bc317b75a242958c76fb66b46cfff4ed1e"
 
 [[files]]
-file = "mods/aether.pw.toml"
-hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
@@ -197,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
 hash = "312688b8bae6b3e31710700063f01777a6181f2f9b0a88263570373a34284770"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "413494b5ba534461e22545173a8cc6e98b04962a0ee9514498b830b99d4acabe"
 metafile = true
 
 [[files]]
