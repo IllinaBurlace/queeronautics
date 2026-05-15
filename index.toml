@@ -45,6 +45,11 @@ hash = "2b8c5286980b8d864085d02a6b2153cefa401a965833139ffac8e7661a322f7c"
 metafile = true
 
 [[files]]
+file = "mods/craftable-mushrooms.pw.toml"
+hash = "fc831a91f495da3e989b237b19fad6d97175bbf0bfc5562f05d54790a3f275c3"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "b607b4c0f30caa94f29f1624a5f58eb8673040bd50845145e5f0533fd9e9b6b8"
 metafile = true
@@ -220,6 +225,11 @@ hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
 
 [[files]]
+file = "mods/punchy-fpa.pw.toml"
+hash = "b1703f556909278349aca78574f410931ff2877c1b3b50a1c3c4f3e71584346d"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
@@ -372,4 +382,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "2541b092b92a82757e5d200a6093658e20db548bb8583abad3f4506ed04e5ce6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/hyper-punchy.pw.toml"
+hash = "648c4ffeeea108d268f9598e9d0e48eea6cea76e499f4d701895b020a04f4b72"
 metafile = true
