@@ -300,6 +300,16 @@ hash = "d6ffdaa77c1268931084e61a6df498e7eb45813bc0f5db258df84dabee941715"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "8f9cfa61518cb3f9a1bca32ff2a50d39bb5dc33041a34cbe292462f6cefa3069"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "ee46e9f41ca605056827996fe8afb9fd3282e455ab21283fc199d6da0e6beb58"
+metafile = true
+
+[[files]]
 file = "mods/spectrum.pw.toml"
 hash = "044596b6a2063f3328785d905de83fc3e35122f03ffc174019cf9139e3eb2d2f"
 metafile = true
