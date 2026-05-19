@@ -1,0 +1,13 @@
+name = "AStages"
+filename = "astages-2.0.3-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6wy8fmIk/versions/MrlQa4pG/astages-2.0.3-1.21.1.jar"
+hash-format = "sha512"
+hash = "f1e408a28688be03ef8244231fb93293edd186537436deceafe268912501651bb26851fcb8bfd044bcf796f2244525e3c35f7e6066013a9ef559cb09c1e1fb83"
+
+[update]
+[update.modrinth]
+mod-id = "6wy8fmIk"
+version = "MrlQa4pG"
