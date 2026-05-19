@@ -180,13 +180,18 @@ hash = "f5d0701055478e980b50849f199f266e6ab1940277a17ad2e5060df0d978be83"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "988377a2fb2346223a83b6545ec52f5b22ebd0e26b63d141427ad389bedfe4f0"
+metafile = true
+
+[[files]]
 file = "mods/malum.pw.toml"
 hash = "0213b6ecb4784b9f57bf3d66444c61ce357b365c8bef2d10363d0c7f20b86e58"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "7862ee4443273e49cd365331f05e0514d3f798a9ced3e5d8b6dd103dd7e92e1a"
+hash = "1b0bcb6b0739ac51a706398c6f3765e1875e95490a9284603ee5628c259a4f63"
 metafile = true
 
 [[files]]
@@ -216,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "312688b8bae6b3e31710700063f01777a6181f2f9b0a88263570373a34284770"
+hash = "5a59ebe515dbf2b637ac23bedeb33e545675668a0a454c5d6edd4d207a458844"
 metafile = true
 
 [[files]]
@@ -251,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/punchy-fpa.pw.toml"
-hash = "b1703f556909278349aca78574f410931ff2877c1b3b50a1c3c4f3e71584346d"
+hash = "2292c612c1bf4c57481755aab3676919780cc39f1cc35ff8af9b40813648e3b2"
 metafile = true
 
 [[files]]
