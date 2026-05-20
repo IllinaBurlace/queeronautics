@@ -340,6 +340,11 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "9088f93a00bc3242f0239a7115bdcbc4480e19c6120f5396fb3af27d77abda3e"
+metafile = true
+
+[[files]]
 file = "mods/toastbegone.pw.toml"
 hash = "a4baef234f249a012dfb922578f2f9122a75c74ddc3dca9caebdb92cbd49cfb4"
 metafile = true
