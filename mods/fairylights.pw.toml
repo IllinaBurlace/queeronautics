@@ -1,0 +1,13 @@
+name = "Fairy Lights"
+filename = "fairylights-neoforge-1.21.1-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wKhMANDF/versions/X2gBLUmb/fairylights-neoforge-1.21.1-1.2.2.jar"
+hash-format = "sha512"
+hash = "c423d6d344a885dcc427577acaa71bd941e8ee3990323055914e58e8a4cc4e6629f5cbd5eeb2d645b469a46c3826ee5c944eb5e7264f9c6f8034b486ff5f4861"
+
+[update]
+[update.modrinth]
+mod-id = "wKhMANDF"
+version = "X2gBLUmb"
