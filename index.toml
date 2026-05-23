@@ -40,6 +40,16 @@ hash = "392901b7f79963442553456af846d06f48b4057a054a928adb8a76eea13c6383"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "0236c16fae038f834245ad6c9b05f385f75db2e82630bdbf71a4b1a2e6def57d"
+metafile = true
+
+[[files]]
+file = "mods/cgs.pw.toml"
+hash = "49c3b490fb1c69cd2625feed2a3a6a8cb6759657ca29f58ececa7169e5673a29"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -55,8 +65,18 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "2b8c5286980b8d864085d02a6b2153cefa401a965833139ffac8e7661a322f7c"
+metafile = true
+
+[[files]]
+file = "mods/crabbers-delight.pw.toml"
+hash = "7ea72bc415b4b067a98790b5fcef0afd843a226587588b293b6cbf145d834575"
 metafile = true
 
 [[files]]
@@ -80,13 +100,38 @@ hash = "47a456dc38c5bfa9604ad2ecb0627cf5271132a022fc0867b6059f92e841203d"
 metafile = true
 
 [[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "a548a99f9d9ba0d237aaf64acee67b29271d05a40c1c3ef87bc1bc18267c640c"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
+metafile = true
+
+[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "2ba3112a833d6e23aae1e0a38a7a324f89efb8a532ea101f355dc38490840b3b"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "52f8600e5c7ab7358bee923cfff7cd2428d7599cb1ff3c0fdbd373330f770587"
+metafile = true
+
+[[files]]
+file = "mods/create-vibrant-vaults.pw.toml"
+hash = "960645d7f385081b108208e58bbbdfc6b93288b7bd7da90e6f229a57b237234a"
 metafile = true
 
 [[files]]
@@ -120,6 +165,11 @@ hash = "71651e89e2a5c63ecb5e64ae79cc20b8cd37b03ce9210997443b7d64c98cdd52"
 metafile = true
 
 [[files]]
+file = "mods/fairylights.pw.toml"
+hash = "0b21c0af9364067e6d21c35b69e010bd266d86872b22d7ca60dab50ec8622342"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
 metafile = true
@@ -130,6 +180,11 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
+metafile = true
+
+[[files]]
 file = "mods/gaze-a-malum-addon.pw.toml"
 hash = "be7b66f656d62935f1cf55f121214a465dc7c07860257b414696233e9aef9aa2"
 metafile = true
@@ -137,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
 
 [[files]]
@@ -205,6 +265,11 @@ hash = "90e374f5744d552d2a14d8dec41247810c0ef9994d958f9a57d359bb03103115"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "4e93b2710a407b1a518aba64e77d97fd5a2f853b54e2133eac0768ba90bdc5d6"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
@@ -215,8 +280,18 @@ hash = "09ba6db54e6f13fafa1e12a9adcd83db9137617d631288579f520ab11b4bfe9a"
 metafile = true
 
 [[files]]
+file = "mods/ntgl.pw.toml"
+hash = "f2d8ed39cf2333191a7195ce9e988db6927b452ffc9911cd30678f209065e31f"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
+metafile = true
+
+[[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "7bf7c8369bd28212a1e294c60310ccb72f1eb773630970e6ab106ae666766cd3"
 metafile = true
 
 [[files]]
@@ -267,6 +342,16 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "208de52370a896983814bd3f69ed0e2b46ca52d99603656562f3890f96d151da"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
@@ -335,8 +420,18 @@ hash = "044596b6a2063f3328785d905de83fc3e35122f03ffc174019cf9139e3eb2d2f"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "9cfdabfae56ec49c0c3939640e3149a2deebd33dc342f3585e0c82b9ac326ab6"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "9088f93a00bc3242f0239a7115bdcbc4480e19c6120f5396fb3af27d77abda3e"
 metafile = true
 
 [[files]]
