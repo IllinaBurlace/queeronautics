@@ -40,11 +40,6 @@ hash = "392901b7f79963442553456af846d06f48b4057a054a928adb8a76eea13c6383"
 metafile = true
 
 [[files]]
-file = "mods/brewin-and-chewin.pw.toml"
-hash = "0236c16fae038f834245ad6c9b05f385f75db2e82630bdbf71a4b1a2e6def57d"
-metafile = true
-
-[[files]]
 file = "mods/cgs.pw.toml"
 hash = "49c3b490fb1c69cd2625feed2a3a6a8cb6759657ca29f58ececa7169e5673a29"
 metafile = true
